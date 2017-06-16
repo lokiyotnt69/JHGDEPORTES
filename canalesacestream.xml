@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channel>
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM LATINOS-ESPAÑOL HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CB24 Noticias[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b2cbce70102440a979b9a499052185f77065eae8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail>https://pbs.twimg.com/profile_images/598196163003555840/Aojn8fXI.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Mi Musica HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=90a65accb23ce3dd7037f2a916d0687bddc18352&amp;mode=1&amp;name=jdr63IPTV+Mi Musica HD</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] LA SEXTA es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=fb929e0790680427333b3646b7930d52843d0ab9&amp;mode=1&amp;name=jdr63IPTV+LA SEXTA es</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DeporTV (DXTV)[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dbedfc63a7e982dbea6b06e859c7f80f3b3752db&amp;mode=1&amp;name=jdr63IPTV+DeporTV (DXTV)</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+               
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MEGA es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a078295d6ce43dbb2f14d446cd7f5d319473cc0b&amp;mode=1&amp;name=jdr63IPTV+MEGA es</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Antena 3 es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d67c053db623126780759a8f0f1e4b6ecb9ebccf&amp;mode=1&amp;name=jdr63IPTV+Antena 3 es</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Real Madrid TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27f20d8076aa30a84f15969398b8d1195b87f76f&amp;mode=1&amp;name=jdr63IPTV+Real Madrid TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] RTVE esp[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bd2085b8081df7f5a042d64ac498bafcc593a6ba&amp;mode=1&amp;name=jdr63IPTV+RTVE esp</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Trendy Musica[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bc4380939b5b76af039afee35536a8e3efe65893&amp;mode=1&amp;name=jdr63IPTV+Trendy Musica</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tigo Music[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0efe9a2cdd2ce6ac0ecee51f46bd6bf460a84e38&amp;mode=1&amp;name=jdr63IPTV+Tigo Music</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Extra Deportes[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d67360eb13697391d88f405654cc628fe2f100d8&amp;mode=1&amp;name=jdr63IPTV+Extra Deportes</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1&amp;mode=1&amp;name=jdr63IPTV+Sky Sports 1</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kazsport[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9f02c5c9f1827b2f46e8fbbf9de06ce86f33bde0&amp;mode=1&amp;name=jdr63IPTV+Kazsport</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Orbe 21[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b479ffbf9123f50f0b9d9fbdd27ae47e956c5c22&amp;mode=1&amp;name=jdr63IPTV+Orbe 21</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 5 MONDE AMÉRIQUE LATINE[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=cd94bf0a0d48890a7673b4e5cc6e0379bd2c9d1d&amp;mode=1&amp;name=jdr63IPTV+TV 5 MONDE AMÉRIQUE LATINE</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cable Noticias[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=46fad506b5a36987e51db36167fbbb6589ab0720&amp;mode=1&amp;name=jdr63IPTV+Cable Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cable Noticias 'Multimedios[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bdfcdb44a8d1dadb932f4c7e6b0b201daf787c34&amp;mode=1&amp;name=jdr63IPTV+Cable Noticias 'Multimedios</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] UNE TV Manizales[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8f9af00cca5064ada1360191c999224856595d5f&amp;mode=1&amp;name=jdr63IPTV+UNE TV Manizales</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 2 Mochis TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c7289d3878eaf5cb46044441112360f82bb442a4&amp;mode=1&amp;name=jdr63IPTV+Canal 2 Mochis TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telemax[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8fb2b2c222c7f258ea5d0473e7c9c6a7cd440395&amp;mode=1&amp;name=jdr63IPTV+Telemax</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 66 Mexicali[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2732548f9e07efb4c43be7e6bab663384c55c017&amp;mode=1&amp;name=jdr63IPTV+Canal 66 Mexicali</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telecafe[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=98593a8425333dd976be32b80c40e34aad4697b8&amp;mode=1&amp;name=jdr63IPTV+Telecafe</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal de las estrella[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8322961b51fc29cbf4c3c23b01a7695bf3be140f&amp;mode=1&amp;name=jdr63IPTV+Canal de las estrella</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal U OP2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2de8c2f4a571550f2a2a21c8ba6bb74cdd267013&amp;mode=1&amp;name=jdr63IPTV+Canal U OP2</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+  
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DeporTV (DXTV)[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a0d5396dbbc2d87172a87288fb98f88d19c1bcff&amp;mode=1&amp;name=jdr63IPTV+DeporTV (DXTV)</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+  
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal U[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e3ff485c2f3037ae1f69051994e55d5f189db739&amp;mode=1&amp;name=jdr63IPTV+Canal U</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal Antiestres[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1b726e7581cee576ad9a9f048ccd4710e134ea7d&amp;mode=1&amp;name=jdr63IPTV+Canal Antiestres</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cantinazo[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d4d1456f7463f4171abb60e6df7d5c01fc54a7ed&amp;mode=1&amp;name=jdr63IPTV+Cantinazo</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] RCG TV Coahuila[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=54b48fce86f539eb5ab16fe1304804f7b436d8a5&amp;mode=1&amp;name=jdr63IPTV+RCG TV Coahuila</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV Pacifico Culiacán[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e872f658635e53d501d3823aee8b827a164cf919&amp;mode=1&amp;name=jdr63IPTV+TV Pacifico Culiacán</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 2 Yaqui TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9fdccab746f32f9ae1ad0f37a8ab4a57369c0ca0&amp;mode=1&amp;name=jdr63IPTV+Canal 2 Yaqui TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tele Vida[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=20ef48c72d1221a904d51070272b6c0de68bfbe6&amp;mode=1&amp;name=jdr63IPTV+Tele Vida</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telemedellin[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bcdc69d7cd92b5a33d848ec7fc01328019f3e886&amp;mode=1&amp;name=jdr63IPTV+Telemedellin</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 7 Mazatlán[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8318f4d99cf2ccb10b76de0ef6beda5a3085bcf7&amp;mode=1&amp;name=jdr63IPTV+Canal 7 Mazatlán</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 5 TV Coahuila[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=81dae5377adaf8869bbeffe610cf5f18493b2cd7&amp;mode=1&amp;name=jdr63IPTV+Canal 5 TV Coahuila</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Teleantioquia[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d39c2271e674d49d4abbb2f2694f10d2f795adb0&amp;mode=1&amp;name=jdr63IPTV+Teleantioquia</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viajar[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=261db833cf218ba811e2b4208ee0058553532978&amp;mode=1&amp;name=jdr63IPTV+Viajar</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TVMas Veracruz[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=acc5df539ad5cba10d2a22f7008d3c217e31be17&amp;mode=1&amp;name=jdr63IPTV+TVMas Veracruz</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] One TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=67ad15ad8a884cb844b8aa66be1f74275a335a3e&amp;mode=1&amp;name=jdr63IPTV+One TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Teleamiga[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dbc420792d4bd81b27dcd0c376f9262dc9a6c39c&amp;mode=1&amp;name=jdr63IPTV+Teleamiga</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cosmovision[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a5ebb2c639d4f925e6c6d1f23b5f255e85ee81ab&amp;mode=1&amp;name=jdr63IPTV+Cosmovision</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kazsport[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9f02c5c9f1827b2f46e8fbbf9de06ce86f33bde0&amp;mode=1&amp;name=jdr63IPTV+Kazsport</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Real Madrid TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27f20d8076aa30a84f15969398b8d1195b87f76f&amp;mode=1&amp;name=jdr63IPTV+Real Madrid TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] 26 Argentina[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3d895b5f35a9c2f876c2cc5136d0c62c384febee&amp;mode=1&amp;name=jdr63IPTV+26 Argentina</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Pinguino multimedia Chile[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=53e5c3ef8c059c3b309ea1a4d7decc2cd54f345b&amp;mode=1&amp;name=jdr63IPTV+</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paka Paka[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5ce39da4ef7426064d05b98920b0aac59cb0dc8f&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CB24 Noticias[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b2cbce70102440a979b9a499052185f77065eae8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Colosal TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?mode=1&url=79d8701b22efe30fe357922385d747000386ca39&name=jdr63IPTV+Colosal TV</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Azteca 13[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d1fd24eff71bdfaf6b047f626b30dcb80f71a5f1&amp;mode=1&amp;name=jdr63IPTV+Azteca 13</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Children HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nickelodeon HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c65f3d0175b2968e7ea30d429505c8bacae1d36e&amp;mode=1&amp;name=jdr63IPTV+Azteca 13</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nickelodeon HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c65f3d0175b2968e7ea30d429505c8bacae1d36e&amp;mode=1&amp;name=jdr63IPTV+Nickelodeon HD</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nick Jr.[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=810995afb93ab6e2f9348e885236c4c64846bf73&amp;mode=1&amp;name=jdr63IPTV+Nick Jr.</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nickelodeon[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=23e3817cc2fe728b04bf750861718da4a1fbc603&amp;mode=1&amp;name=jdr63IPTV+Nickelodeon</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Disney Channel[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4338417a292ea5cc423717792cc2569ceca91edc&amp;mode=1&amp;name=jdr63IPTV+Disney Channel</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cartoon Network[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f6b68168c4f22c8656d0152fa0966e1cb6e1247f&amp;mode=1&amp;name=jdr63IPTV+Cartoon Network</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Ginger HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e6fa1059f2a7dd9f77dae62b7172db57a2db3865&amp;mode=1&amp;name=jdr63IPTV+Ginger HD</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] JimJam[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4d68f35fac750cd860053fa9f50ae7d0475f98a5&amp;mode=1&amp;name=jdr63IPTV+JimJam</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Мультимания[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=252eb1af9d43d1dda912f5a360e7fda61af6ba9e&amp;mode=1&amp;name=jdr63IPTV+Мультимания</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paka Paka[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5ce39da4ef7426064d05b98920b0aac59cb0dc8f&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/ninos-es/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Sport IP TV  Live HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TSN 1 [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4e5abe370e1bfa45a5d8dfb510431b662ab90225&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viasat Sport HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e3085962c863f26152b121bd9d4a4be52f41271a&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Motorsport [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=165e0966b7a861334b5335a41cae87900cb391cc&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Super Tennis HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=111d650225e7b7fb8f0f1e968c6aa7f8b86684bd&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Extreme Sports [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e86eaa26e08934276acb17cca308afc93068643f&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Fight Sports US [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9a4c42b8a4d8e866579117247b0b208a41cb5a24&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NBA US [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0bf30a8b9fc104a681ac78854d9cca53d6e7f277&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Setanta Sports + HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=887c32a4712d6ce3c6104562e2ee3d9afb1592ac&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Real Madrid TV [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27f20d8076aa30a84f15969398b8d1195b87f76f&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kazsport [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9f02c5c9f1827b2f46e8fbbf9de06ce86f33bde0&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports 1 [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sportal BG [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0cded412854b559393bfaa54ff76303065a494d0&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 1 HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=858fbd830d9ba110dd9a761fffb87915cdea40bd&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 1 [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bf8a43e0c808f7dcbc17ce3dc941c13bb6469e07&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 2 [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=73dec7e94d6a6265061c125a9dfcc8dbc4a05b29&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 2 HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=cec11df9d536509101d08fd3fd6f49f3ba0f1413&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/es/live-tv/deportes-en-vivo-es/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM MUSICA HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Muzik [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e84e9b52ba9e65da9b5f597c02234708d2adda72&amp;mode=1&amp;name=jdr63IPTV+TRT Muzik </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Dance [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8a64a194345bc5d3a165402735ff071265e350c8&amp;mode=1&amp;name=jdr63IPTV+MTV Dance </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Live HD [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=601909932e659f26e20946e31d65b4e52d793891&amp;mode=1&amp;name=jdr63IPTV+MTV Live HD </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Music Box TV [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4d711fa1328ea27d81631576147a1f07c6bf580e&amp;mode=1&amp;name=jdr63IPTV+ </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Hits [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7753392814c3ad4b93c235262b08707e92cb7e00&amp;mode=1&amp;name=jdr63IPTV+ </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tigo Music [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0efe9a2cdd2ce6ac0ecee51f46bd6bf460a84e38&amp;mode=1&amp;name=jdr63IPTV+ </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Trendy Musica [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bc4380939b5b76af039afee35536a8e3efe65893&amp;mode=1&amp;name=jdr63IPTV+ </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] VH1 [/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c46ab7f205fe14427de90ff261845415ee47dabd&amp;mode=1&amp;name=jdr63IPTV+ </link>
+  <referer>http://dvb-p.com/es/live-tv/music-tv-es/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/logo.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM LATINOS-ESPAÑOL HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CB24 Noticias[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b2cbce70102440a979b9a499052185f77065eae8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Mi Musica HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=90a65accb23ce3dd7037f2a916d0687bddc18352&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Orbe 21[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b479ffbf9123f50f0b9d9fbdd27ae47e956c5c22&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 5 MONDE AMÉRIQUE LATINE[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=cd94bf0a0d48890a7673b4e5cc6e0379bd2c9d1d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cable Noticias[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=46fad506b5a36987e51db36167fbbb6589ab0720&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Multimedios[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bdfcdb44a8d1dadb932f4c7e6b0b201daf787c34&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] UNE TV Manizales[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8f9af00cca5064ada1360191c999224856595d5f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 2 Mochis TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c7289d3878eaf5cb46044441112360f82bb442a4&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telemax[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8fb2b2c222c7f258ea5d0473e7c9c6a7cd440395&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 66 Mexicali[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2732548f9e07efb4c43be7e6bab663384c55c017&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telecafe[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=98593a8425333dd976be32b80c40e34aad4697b8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal de las estrella[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8322961b51fc29cbf4c3c23b01a7695bf3be140f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal U OP2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2de8c2f4a571550f2a2a21c8ba6bb74cdd267013&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] LA SEXTA es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=fb929e0790680427333b3646b7930d52843d0ab9&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DeporTV (DXTV)[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dbedfc63a7e982dbea6b06e859c7f80f3b3752db&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] El Tiempo[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a0d5396dbbc2d87172a87288fb98f88d19c1bcff&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal U[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e3ff485c2f3037ae1f69051994e55d5f189db739&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Trendy Musica[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bc4380939b5b76af039afee35536a8e3efe65893&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal Antiestres[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1b726e7581cee576ad9a9f048ccd4710e134ea7d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cantinazo[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d4d1456f7463f4171abb60e6df7d5c01fc54a7ed&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MEGA es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a078295d6ce43dbb2f14d446cd7f5d319473cc0b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] RCG TV Coahuila[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=54b48fce86f539eb5ab16fe1304804f7b436d8a5&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV Pacifico Culiacán[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e872f658635e53d501d3823aee8b827a164cf919&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 2 Yaqui TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9fdccab746f32f9ae1ad0f37a8ab4a57369c0ca0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tele Vida[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=20ef48c72d1221a904d51070272b6c0de68bfbe6&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Telemedellin[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bcdc69d7cd92b5a33d848ec7fc01328019f3e886&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 7 Mazatlán[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8318f4d99cf2ccb10b76de0ef6beda5a3085bcf7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tigo Music[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0efe9a2cdd2ce6ac0ecee51f46bd6bf460a84e38&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Canal 5 TV Coahuila[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=81dae5377adaf8869bbeffe610cf5f18493b2cd7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Antena 3 es[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d67c053db623126780759a8f0f1e4b6ecb9ebccf&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Teleantioquia[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d39c2271e674d49d4abbb2f2694f10d2f795adb0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viajar[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=261db833cf218ba811e2b4208ee0058553532978&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TVMas Veracruz[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=acc5df539ad5cba10d2a22f7008d3c217e31be17&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] One TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=67ad15ad8a884cb844b8aa66be1f74275a335a3e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paka Paka[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5ce39da4ef7426064d05b98920b0aac59cb0dc8f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Teleamiga[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dbc420792d4bd81b27dcd0c376f9262dc9a6c39c&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cosmovision[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a5ebb2c639d4f925e6c6d1f23b5f255e85ee81ab&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Extra Deportes[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d67360eb13697391d88f405654cc628fe2f100d8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kazsport[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9f02c5c9f1827b2f46e8fbbf9de06ce86f33bde0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Real Madrid TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27f20d8076aa30a84f15969398b8d1195b87f76f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] 26 Argentina[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3d895b5f35a9c2f876c2cc5136d0c62c384febee&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Pinguino multimedia Chile[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=53e5c3ef8c059c3b309ea1a4d7decc2cd54f345b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Colosal TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=79d8701b22efe30fe357922385d747000386ca39&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Azteca 13[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d1fd24eff71bdfaf6b047f626b30dcb80f71a5f1&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] RTVE esp[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bd2085b8081df7f5a042d64ac498bafcc593a6ba&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/es/live-tv/television-latino-espanol/#</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Bulgarian IPTV LIVE Free HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BNT 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3e1f631368c7729290ec0d0eda79f947815b508e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bTV BG[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=666c78c333a28126b8ae4e119c6be99d998bae83&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NOVA TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c61d4ea1f98d320ea21604670420459d62716561&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bTV Cinema[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=cb99e477c281193cdd4351fdf7c75984f7136c68&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bTV Comedy[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=815f15e94c8010a19ab2d74ca4295ee0091d82f9&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bTV Action[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2b223dd399c2a22c44fb99fbffac01c816be9501&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Discovery Channel[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aceeac638b2db22e0f063bb6db48f8bd32381710&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CITY TV BG[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0bcf6dfeae0174e9e5bdd012083c2b3371e356fa&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV Evropa[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5d8f17e50ff9111d540a20b3ffc1c1889035375f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kanal 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c7b20cf178983c55063f07774e8352463d9727ae&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BG on AIR[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3a4172e5ea528417d5bd89d219e43066f06a9b56&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NatGeo WILD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ccfd4c12c7255503e0d95d2b86a51080dd1660df&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] National Geographic[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=201855add6b3ed61bac2d94ca690553cbd5e9432&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bnt HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=66043d67e0be4f9574154a67ce02a59495f72c7d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BiT[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=fe58bfb229c131c1e19b11d42b8c2fccb5aed080&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Diema[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1e8970342aae772b64f58250f3e84c6380b2a807&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Diema Family[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=05ae7e184b4a591cd80530e262537c5fad5a08f1&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvhttp://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] bTV Lady[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a8f12bf5efe574452096bdb733d6d3d8aa28ea7d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurokom[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=921e68308b21ff8dca28364a4231c56521de1c97&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sportal BG[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0cded412854b559393bfaa54ff76303065a494d0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/bulgarian-iptv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Russian TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] ТНТ[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3fe66d89ae4f61c792182e8112aa1b7f46c11419&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] ТНТ4[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a6cb7583448471ee773c06783798fd929424cea1&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] ТВЦ[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=92c837c5d23179fd876f75daca43e36620568352&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Совершенно секретно[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a24e4621e2c8a5deed37c11b0b1b6a764286b0e7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] ТВ 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5053deb20e05948a93abfe06e61342c21eb7c8c0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] СТС[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1d145fa8b8a37d15e9971fe3f2a6967b9b5f6a38&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] СТРК HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1d32e8195aab66ac9cd97b2c0012e1284299e445&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] НТВ[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=be2ead8a8610e9a67cca88a01df9d7368b9eb148&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Megahit HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=86fb4c12391630e9a7f4bb98604aab61d719b71d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paramount Comedy HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ddc3742cbc9a319ba257fb4722a474e628d3530e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 1000 Action East[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=907e8603a7b83aefa011b49adcb36df5d88678b2&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 1000 Русское кино[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e96bb899c17a14a4aad93b53fef85ae89cebb0e3&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Premium HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f7a1e214286972b3f8287a9f41dcfd72a83f9c97&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Comedy HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9969ddd7d4e05457a84443e856156bddce8d6909&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paramount Comedy[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ea5cecd9c05b781284183566df86c569ad4b262e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Music Box TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=20789f3e55248eba523a45b9c9b7432cc85a69dc&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Мультимания[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=be9c50cbe806f9a3d08fc188ec23d0aa6ce0eee7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч ТВ[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=882e10f007519c21c9d5a5a1e07a741f698f2a83&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Арена[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2a789f536f4f95192bafd9b7613c521daad480f5&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Боец[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=92184883a7e93fe1c6f308482a1d78337c9b1175&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Планета[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aa553bf7c99638803fcb4ce9e7f7b793a5e73675&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4ba34991f15ec63cdf23ec041aa66081b632274c&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=173c8f2024aca0fafe255fd1f3ac64b10eba368b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7ab5261b867580d0be1ce13d05dae588ed47984d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/russian-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Turkish TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>             
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] SHOW HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=09065f9249027e4a9287b72ca59f1773ad28a297&amp;mode=1&amp;name=jdr63IPTV+SHOW HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] POWER TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d9e7bc341bb232385c5f04af0946dd8048b8e28f&amp;mode=1&amp;name=jdr63IPTV+POWER TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aac43be0d8f52677ff7c55256102cf903ef436db&amp;mode=1&amp;name=jdr63IPTV+TV 2</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] HABER TURK[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0c70e92e6c2581d7236c87a8b14b33daf914a44a&amp;mode=1&amp;name=jdr63IPTV+HABER TURK</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kanal D[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c11699ebbfd33b38c2a1dedc8bf3fa997f17b73c&amp;mode=1&amp;name=jdr63IPTV+Kanal D</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 4[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=026647f68f716bd6285ae672f1f1921b51ac674b&amp;mode=1&amp;name=jdr63IPTV+TV 4</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Dream Turk[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b576dec2dcddc22151a62dfd0ae1fd2c4936341e&amp;mode=1&amp;name=jdr63IPTV+Dream Turk</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Dream TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a7847b681537e832fd678e6cd992ddf25abe7cff&amp;mode=1&amp;name=jdr63IPTV+Dream TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Bloomberg HT[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=45134fd595ee18792c37f2c72672f1598ccae86d&amp;mode=1&amp;name=jdr63IPTV+Bloomberg HT</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] C TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=911d2895e3f83a60bcec8607d61f0b2eb2d21cb3&amp;mode=1&amp;name=jdr63IPTV+C TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Flash TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ac151cc4fd600f1a2bfffa5c0d733beef659b4e0&amp;mode=1&amp;name=jdr63IPTV+Flash TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nuhbaba TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a23a0afff301817bc3cc6be1857ac9053326164b&amp;mode=1&amp;name=jdr63IPTV+Nuhbaba TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NR1 HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=789fac0aa26523b6f20905c64a6cb509a952c3b8&amp;mode=1&amp;name=jdr63IPTV+NR1 HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Cocuk[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=290a6c4506cb66632d0a74816bf22c6414862844&amp;mode=1&amp;name=jdr63IPTV+TRT Cocuk</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] 24 TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e33cf7c7a3206aaec63d99b87fc9c2e9f7cfe2b8&amp;mode=1&amp;name=jdr63IPTV+24 TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Haber HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2b967f647d2ecc9d56d44c7ee52cb364399fa240&amp;mode=1&amp;name=jdr63IPTV+TRT Haber HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Muzik[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e84e9b52ba9e65da9b5f597c02234708d2adda72&amp;mode=1&amp;name=jdr63IPTV+TRT Muzik</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BEYAZ TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ee6299da926ab22243d5c618ae025e00926e3883&amp;mode=1&amp;name=jdr63IPTV+BEYAZ TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] AY TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8ae4082dca6eea1ad1b57a5b9f38ed42f95d9b0d&amp;mode=1&amp;name=jdr63IPTV+AY TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL URFA[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=64f26e94eb399e08e63da6f88d2b9905facdefb2&amp;mode=1&amp;name=jdr63IPTV+KANAL URFA</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL 33[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4f28b0cfcc716f4703f363c1f0f765bdf9a1e624&amp;mode=1&amp;name=jdr63IPTV+KANAL 33</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL 26[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=24ea3693ecef5fd1c56489334aa6958888ae0cca&amp;mode=1&amp;name=jdr63IPTV+KANAL 26</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CLUBTÜRK TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d2a04fa52e8d171db3e732efb254a998276df3c6&amp;mode=1&amp;name=jdr63IPTV+CLUBTÜRK TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FOX TV HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c3759b4966f807073c32b65acf066e045fafbe19&amp;mode=1&amp;name=jdr63IPTV+FOX TV HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KRAL 90 LAR TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8060bae41c9d90eed43ef8d910fbb6bb9bd7adb6&amp;mode=1&amp;name=jdr63IPTV+KRAL 90 LAR TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] 360 TV (Skytürk)[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c2cfef4deb1d6917aa7bd5b6d79dcda7707d8b9a&amp;mode=1&amp;name=jdr63IPTV+360 TV (Skytürk)</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Dağ TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0de00dddb0a90f42204f4d32ff519356d33d4ec9&amp;mode=1&amp;name=jdr63IPTV+Dağ TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL A[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ad4e7147d4363c8d68c964eeb8a371fe8894b1a5&amp;mode=1&amp;name=jdr63IPTV+KANAL A</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] SAKARYA TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=70c6cda87cc4bc3ddce5861701c4159e2ac808a2&amp;mode=1&amp;name=jdr63IPTV+SAKARYA TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TJK TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ce79f93898ea697b50733092e908d116c6495e80&amp;mode=1&amp;name=jdr63IPTV+TJK TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] UÇAN KUS TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8c2b49cf612f818fda82d273700c9810abcd09a0&amp;mode=1&amp;name=jdr63IPTV+UÇAN KUS TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KRAL POP KONSER TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=fc5a7c6750f98c973621b628e943f1b0cd010d9f&amp;mode=1&amp;name=jdr63IPTV+KRAL POP KONSER TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FRM TV HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6db36778e16493d1a8199c4aada7431cc9b3a730&amp;mode=1&amp;name=jdr63IPTV+FRM TV HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eskisehirin TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7591419865aa3329910a8aba7fd162b0254c228f&amp;mode=1&amp;name=jdr63IPTV+Eskisehirin TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL 35[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aeb3c988e5e67c0fa273480871ef45dc1f506856&amp;mode=1&amp;name=jdr63IPTV+KANAL 35</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] HABER 61 TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4a20bde857ca3a42b320acb81424286230a54819&amp;mode=1&amp;name=jdr63IPTV+HABER 61 TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DENGE TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b7f191217e17212260883a3572ee567c727210e6&amp;mode=1&amp;name=jdr63IPTV+DENGE TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DÜZCE TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=43b1d076cf1c29d61353caf535b6c52feb0ac68e&amp;mode=1&amp;name=jdr63IPTV+DÜZCE TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KRAL HOME MADE[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bb0a1207650782b8758a4181098a48a65626229b&amp;mode=1&amp;name=jdr63IPTV+KRAL HOME MADE</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DENIZ HABER TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=080cf8a8b6cf65fbf884f1800da0077530a2747a&amp;mode=1&amp;name=jdr63IPTV+DENIZ HABER TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] KANAL 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0a6bad4e352aa63f0fff73f66e90e717c7097cff&amp;mode=1&amp;name=jdr63IPTV+KANAL 3</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cartoon Network[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5b6bae39edef2cea017a94f39dd66b4d10798ac9&amp;mode=1&amp;name=jdr63IPTV+Cartoon Network</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] SHOWMAX[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6f07f28684b3e4bdeec861f65652a3d18f97c5b7&amp;mode=1&amp;name=jdr63IPTV+SHOWMAX</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MELTEM TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d8b72e69e2f66129e24ec16a714fb6889d529f13&amp;mode=1&amp;name=jdr63IPTV+MELTEM TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Biat TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=db36f6d54a51bf7980640922e77933b66941a1de&amp;mode=1&amp;name=jdr63IPTV+Biat TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] VIZYON 58 TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=31050061735d2f62bd4369b86e9823f026a1a612&amp;mode=1&amp;name=jdr63IPTV+VIZYON 58 TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] YABAN TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=04801d209a44b2070423c2aba0534b8d24266827&amp;mode=1&amp;name=jdr63IPTV+YABAN TV</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] POWER TURK HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e304433cba6d6765f805bca4a4a9799bb3809750&amp;mode=1&amp;name=jdr63IPTV+POWER TURK HD</link>
+  <referer>http://dvb-p.com/live-tv/turkish-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Children TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>             
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Cartoon Network[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3cdc1f03a59c14669ddb24ac9bb6c8e43d1019d5&amp;mode=1&amp;name=jdr63IPTV+Cartoon Network</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Disney Channel[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4338417a292ea5cc423717792cc2569ceca91edc&amp;mode=1&amp;name=jdr63IPTV+Disney Channel</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nick Jr.[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=810995afb93ab6e2f9348e885236c4c64846bf73&amp;mode=1&amp;name=jdr63IPTV+Nick Jr.</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nickelodeon[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=631767c9481724434fbd5b7575277f91e0db5f73&amp;mode=1&amp;name=jdr63IPTV+Nickelodeon</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nickelodeon HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2421552879a5d89b6988df9e392ae808e82f20e0&amp;mode=1&amp;name=jdr63IPTV+Nickelodeon HD</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Ginger HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e6fa1059f2a7dd9f77dae62b7172db57a2db3865&amp;mode=1&amp;name=jdr63IPTV+Ginger HD</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] JimJam[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=de3967c8ea77a0cbd07e05f5a8707e752958d882&amp;mode=1&amp;name=jdr63IPTV+JimJam</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Мультимания[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=be9c50cbe806f9a3d08fc188ec23d0aa6ce0eee7&amp;mode=1&amp;name=jdr63IPTV+Мультимания</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paka Paka[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5ce39da4ef7426064d05b98920b0aac59cb0dc8f&amp;mode=1&amp;name=jdr63IPTV+Paka Paka</link>
+  <referer>http://dvb-p.com/live-tv/children/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Entertainment TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Fox Life[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6d820be43fa2e5d107a2a7a14f1661b987ca1a15&amp;mode=1&amp;name=jdr63IPTV+Fox Life</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Fox[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c5c1ffec621e1639124b9714c4ac3fa768f7c06b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Fоx HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bd34ece6114644340ccaa33469ab5695d7a02937&amp;mode=1&amp;name=jdr63IPTV+Fоx HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sony Turbo[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=11bd260f2562bb8dda126fe0781b625fe6102158&amp;mode=1&amp;name=jdr63IPTV+Sony Turbo</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] ID Xtra[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d82a0b3729ee876d6bc4ed578f0d0bd10580d468&amp;mode=1&amp;name=jdr63IPTV+ID Xtra</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Discovery Science[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e928cda6a3637eacabd0c14d96ba895e1f889302&amp;mode=1&amp;name=jdr63IPTV+Discovery Science</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nat Geo Wild HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6401f332b77963d3ddb2c71335ebc3b87b5872f0&amp;mode=1&amp;name=jdr63IPTV+Nat Geo Wild HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] National Geographic HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5b10c9340f5ad939f8f3a500d13b04f096fa10d0&amp;mode=1&amp;name=jdr63IPTV+National Geographic HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Discovery Channel HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=51c9cc5af18ea751e99131d9c8800701f7170a4b&amp;mode=1&amp;name=jdr63IPTV+Discovery Channel HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] History Channel HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c94aeda9aaa688298a223e0249094a8221d055e0&amp;mode=1&amp;name=jdr63IPTV+History Channel HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Comedy HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9969ddd7d4e05457a84443e856156bddce8d6909&amp;mode=1&amp;name=jdr63IPTV+TV1000 Comedy HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Megahit HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=86fb4c12391630e9a7f4bb98604aab61d719b71d&amp;mode=1&amp;name=jdr63IPTV+TV1000 Megahit HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV1000 Premium HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f7a1e214286972b3f8287a9f41dcfd72a83f9c97&amp;mode=1&amp;name=jdr63IPTV+TV1000 Premium HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TV 1000 Action East[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=907e8603a7b83aefa011b49adcb36df5d88678b2&amp;mode=1&amp;name=jdr63IPTV+TV 1000 Action East</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TLC[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=92195844e99c8a7a43b0824ec034dc5e3c8a3b92&amp;mode=1&amp;name=jdr63IPTV+TLC</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TLC HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7f6e8014e00c5898fe69766275b0baf67152d689&amp;mode=1&amp;name=jdr63IPTV+TLC HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+   
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viasat History[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0a7c41198693c31f580180e7aa7a117a4047f475&amp;mode=1&amp;name=jdr63IPTV+Viasat History</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viasat Explore[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ff1e4d743a61f028d09baa72ff598af88748c798&amp;mode=1&amp;name=jdr63IPTV+Viasat Explore</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paramount Comedy[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ea5cecd9c05b781284183566df86c569ad4b262e&amp;mode=1&amp;name=jdr63IPTV+Paramount Comedy</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Paramount Comedy HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ddc3742cbc9a319ba257fb4722a474e628d3530e&amp;mode=1&amp;name=jdr63IPTV+Paramount Comedy HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sony Sci-Fi[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5306026bb2093029444becdc7cd3a85d777356f9&amp;mode=1&amp;name=jdr63IPTV+Sony Sci-Fi</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Travel Channel HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3be9e0afe134309601a1e065049593e9f19c01c6&amp;mode=1&amp;name=jdr63IPTV+Travel Channel HD</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Discovery Channel[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aceeac638b2db22e0f063bb6db48f8bd32381710&amp;mode=1&amp;name=jdr63IPTV+Discovery Channel</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] National Geographic[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=201855add6b3ed61bac2d94ca690553cbd5e9432&amp;mode=1&amp;name=jdr63IPTV+National Geographic</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Animal Planet[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=470f833fda9e4656d9e21101d8d9517f97e5070c&amp;mode=1&amp;name=jdr63IPTV+Animal Planet</link>
+  <referer>http://dvb-p.com/live-tv/entertainment/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM News TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CNN International[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=8a2806d61cefcc150931b38092fe9c6d6362c79e&amp;mode=1&amp;name=jdr63IPTV+CNN International</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BBC World News[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bacff8a3fbbb69b570bb1be38699e3c5f166ca3c&amp;mode=1&amp;name=jdr63IPTV+BBC World News</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BBC One[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=964d4a6632bf9c8c088de94e12a4597b2173e291&amp;mode=1&amp;name=jdr63IPTV+BBC One</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Business[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=356853570605208b6eeb3e38251ef39b11b069d2&amp;mode=1&amp;name=jdr63IPTV+Business</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Bloomberg[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7705c4f5a1f57aebb737095bade1ec79c273a03a&amp;mode=1&amp;name=jdr63IPTV+Bloomberg</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] News One[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=471c92910dee621aff0ed8568e8002f95aba3a2e&amp;mode=1&amp;name=jdr63IPTV+News One</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NHK World TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=93e3e3304e0c085c89a57a5c60f7fe6e5c890086&amp;mode=1&amp;name=jdr63IPTV+NHK World TV</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Haber HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2b967f647d2ecc9d56d44c7ee52cb364399fa240&amp;mode=1&amp;name=jdr63IPTV+TRT Haber HD</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Sport IP TV HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TSN 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4e5abe370e1bfa45a5d8dfb510431b662ab90225&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Viasat Sport HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a29a0fb137783e194646c8ce599f964a3de25c22&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Motorsport[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=165e0966b7a861334b5335a41cae87900cb391cc&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BT Sport 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e502c197dde3921551957ef2ec08fc6bbdc663ae&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BT Sport 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=04b38c71065be18d799edf8c37d63e738030b84d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6b2fb9a9e67aaabd63004059147dfdc46e882aba&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4dbce55abecd154ff71b3477a332bd63611309e5&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports 4[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=969a42388e101e6c6d9574a311e4b387a6ff1413&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sky Sports F1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=969dbafa76bbd0ca37d73629f392c83fcf9cc295&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Super Tennis HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=6c0d3a4a36f4232499105c5582b84bddf7e4991d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9e149cf3f906568feabc1372bf87083a6094941e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 1 HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ba285acedf49650c367a3684abcae0c5b634656b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d5084c1860732733fa44fda6ab58fe326d71de26&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Eurosport 2 HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=25ea35390f4cf8efebc5306678c7443c5b4cba31&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Extreme Sports[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a78e30d945f76ed7d58e600cc5e728ffd86cd60e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч ТВ[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=882e10f007519c21c9d5a5a1e07a741f698f2a83&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Арена[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=2a789f536f4f95192bafd9b7613c521daad480f5&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Боец[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=92184883a7e93fe1c6f308482a1d78337c9b1175&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Планета[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aa553bf7c99638803fcb4ce9e7f7b793a5e73675&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4ba34991f15ec63cdf23ec041aa66081b632274c&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=173c8f2024aca0fafe255fd1f3ac64b10eba368b&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Матч! Футбол 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7ab5261b867580d0be1ce13d05dae588ed47984d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] DeporTV (DXTV)[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dbedfc63a7e982dbea6b06e859c7f80f3b3752db&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Fight Sports US[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9a4c42b8a4d8e866579117247b0b208a41cb5a24&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports//referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] NBA US[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0bf30a8b9fc104a681ac78854d9cca53d6e7f277&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Extra Deportes[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d67360eb13697391d88f405654cc628fe2f100d8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Kazsport[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9f02c5c9f1827b2f46e8fbbf9de06ce86f33bde0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Real Madrid TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27f20d8076aa30a84f15969398b8d1195b87f76f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] BT Sport ESPN[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f4e2ade22f407fe567728923cbbe1ccb5b43a9df&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sportal BG[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0cded412854b559393bfaa54ff76303065a494d0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/sports/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Music TV  HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://dvb-p.com/es/live-tv/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] VH1[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=aa33255cf0a92271d0aa777442ab84f4d01ea859&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Dance[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=a5a9799969091eabd0a89d8041a8327af7974028&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Hits[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=92a166177f933be929dce47aba8e93853bf2b623&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] MTV Live HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ca2e76b9cb74784b3adbd003e5ea1b9e9e36c2f4&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Music Box TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=20789f3e55248eba523a45b9c9b7432cc85a69dc&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TRT Muzik[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=e84e9b52ba9e65da9b5f597c02234708d2adda72&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Trendy Musica[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=bc4380939b5b76af039afee35536a8e3efe65893&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Tigo Music[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0efe9a2cdd2ce6ac0ecee51f46bd6bf460a84e38&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/music-tv/</referer>
+  <thumbnail>http://dvb-p.com/wp/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Adult +18 XXX  HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://plus18.ga/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Pissing[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=ca8133f833c44059fa865f2e2167671f3e99fcf2&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail></thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV BBW[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=572388a981c4dc54654486179eedb0caaecaea9d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV 4[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=86961b7b6e9b69dc95bce532011a759744e8816e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Teens[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=41667b174e020876a21021eaf1e473b607a219dd&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Legal Porno[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=c102a4d276266e114da27ac66244e6134d7a2ab2&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Anal[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=227902a3d2d451d3c7812282bb4cb338de1010f8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Teaching[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3d5bde1764769aa12d7398ceb7eedf5ab15de4ae&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Compilation[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f4389af2379dc324834e788e31d86d2a1f4c669e&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Amateur[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=38915cdb7f35517dee1273fe8a178490266ea62a&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Lesbian[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b8922b1c261e8070bb9af4106e01e62bb77ebd42&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Older[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3b9a725cac428248db422b0c91dcd521814a7169&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV 2 HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=dcd67a43cca11f16d972ca44a3d1aae4c506a8b0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV 3[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=7318d96de9c9a0e42215e7419fc4fd428dcafbba&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV 2[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1fb7c6216e9016ee788c772f200c1fb3c86a1aa7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Parody[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=30f1f9156d3da6f9edfa7c5bdbed92eead197822&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Gay[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1f05200799462f58eb6381fa5fea44436014bdaa&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Shemale[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=97cdfca437886bf69c2676c670ab1f324d8232c5&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/fap-tv/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Adult hardcore +18 XXX  HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://plus18.ga/</link>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] TGirls TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=9483e3957d814850341dfe64426461997ab35d1a&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Visit-X HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3cc5c4c7a503e549fc56821be39354d9b741be2c&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Hustler TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d0347841ccccef28c3082784c01b3a2bd4687a7c&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] SCT[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d940f3b515fda5e084bd637f963540f7b82a8206&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] FAP TV Trans[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=566ec69154e4bf1eda52efc89639acf83574aec8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Ночной клуб[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=783a64c40f7973cf256fa038c0d541be7daa9c56&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Brazzers TV Europe[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>342102b70c55327fbbb69643d412aa06c7e76f81&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Hustler HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=939c6c48d426d26dc6e6a1942dd4fac3d46b84b8&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Sextosenso[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=5a88e12bcafc96ecd034124ecf72ce84a8dff4ff&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] CentoXCento TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f119a1f5c8fdb881e6e4e7f743bca9d7512852ca&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Phoenix Marie TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=f9a0a46ba358ba0dc983eb07bb830582262ee25d&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Exotica TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=95966c67e3073de48456109331c6e0eb6e2ea7c0&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Satisfaction HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=3b067fb7ca120b1632e8cada8162171ada480007&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Redlight HD[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=36036bbad3929bc52e65207673a085927a3bbc8f&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] PassionXXX[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=27d1b75c2ffc6c9a394c116d1645bec8c0452b54&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Brazzers TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=1fc03ccb07f688d5c2a825896824d38478eb15db&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Pink O TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=d9a8753ae64b00bb088b44420fb3b3e7689de6df&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/hardcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+ 
+  
+<item>
+<title>[COLOR orangered] 📺 <<<<   [/COLOR][COLOR blue][B][I]ACESTREAM Adult softcore +18 XXX  HDAce  (dvb-p.com)[/I][/B][/COLOR][COLOR orangered]   >>>> 📺[/COLOR]</title>
+    <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+    <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/video-bg.png</fanart>
+    <link>http://plus18.ga/</link>
+</item>
+  
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Nuart TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=841ac4147c00f860f85639d221ee534faf0aa636&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/softcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Playboy TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=b9f0cd043a39e63173338f308731a195cba27e58&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/softcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] O-la-la[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=77980bafaaaadc82eeee6d051c3e37786bb81ef2&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/softcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Jasmin TV[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=4445ea01f36dc01c6f819fefbf16a9af25f4aac1&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://plus18.ga/live-tv/softcore/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+<item>
+  <title>[COLOR goldenrod][COLOR red]•  [/COLOR][B] Искушение[/B][/COLOR][COLOR darkcyan] [I]    ~   Plexus[/I][/COLOR]</title>
+  <link>plugin://program.plexus/?url=0c8b1146e9316f72c80a38fd19b13534b71c68b7&amp;mode=1&amp;name=jdr63IPTV+CB24 Noticias</link>
+  <referer>http://dvb-p.com/live-tv/news/</referer>
+  <thumbnail>http://plus18.ga/wp/wp-content/uploads/2016/10/lIWBxmt5GDl9tg4KsQNtA0CuZWdOHH.png</thumbnail>
+  <fanart>http://dvb-p.com/wp/wp-content/themes/dvb-p/img/dark_mosaic.png</fanart>
+</item>
+ 
+ 
+ 
+</channel>
