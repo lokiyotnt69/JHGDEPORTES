@@ -17,8 +17,13 @@
 
 
 
+
+
+
+
+
 <item>
-            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR red]*DEPORTES 1[/COLOR]</title>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR yellow]*DEPORTES 1[/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdeportes.html</sportsdevil>
             <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>http://www.diariomotor.com/competicion/imagenes/2015/01/tie_break_en_canal-_deportes.jpg</thumbnail>
@@ -26,7 +31,7 @@
 
 			
 <item>
-            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR red]*DEPORTES 1*[/COLOR]</title>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR yellow]*DEPORTES 1*[/COLOR]</title>
             <sportsdevil>http://verdirectotv.com/ver-canal-plus-deportes-online-gratis-en-directo-hd</sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail>http://www.diariomotor.com/competicion/imagenes/2015/01/tie_break_en_canal-_deportes.jpg</thumbnail>
@@ -35,7 +40,7 @@
 			
 			
 <item>
-            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR red] MOVISTAR DEPORTES2 </title>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR yellow] MOVISTAR DEPORTES2[/COLOR] </title>
             <sportsdevil>http://zagaiptv.eklablog.com/canal-deportes-spain-p1157316</sportsdevil>
             <referer>http://zagaiptv.eklablog.com//referer>
             <thumbnail>http://verdirectotv.com/logos/deportes2.png</thumbnail>
@@ -43,7 +48,7 @@
 			
 						
 <item>
-            <title>[COLOR gold]*JHG*MASTER [/COLOR] [COLOR red]TOROS Tv[/COLOR]</title>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR yellow]TOROS Tv[/COLOR]</title>
             <sportsdevil>http://zagaiptv.eklablog.com/canal-toros-spain-p1157308</sportsdevil>
             <referer>http://zagaiptv.eklablog.com/</referer>
             <thumbnail>https://www.comparaiso.es/images/canalplustoros_300.jpg</thumbnail>
