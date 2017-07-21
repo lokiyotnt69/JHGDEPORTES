@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+<items>
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV M3U LISTAS[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>https://www.best-iptv.net/wp-content/uploads/2017/03/IPTV_MainBanner-450x200.jpg</thumbnail>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR goldenrod]Jdr63IPTV ~ [COLOR darkcyan][B] SERVER LIST: [/B][/COLOR]    [COLOR yellow] [makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR darkcyan][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR goldenrod]Jdr63[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://www.dropbox.com/home/logos?preview=iconJdr63IPTV.png</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://www.dropbox.com/home/logos?preview=iconJdr63IPTV.png</thumbnail>
+</item>
+
+
+
+<!------------------------------->
+
+<item>
+  <title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV M3U LISTAS[/COLOR]  [COLOR red]try0[/COLOR]</title>
+<link>$doregex[makelist]</link> 
+<thumbnail>https://www.best-iptv.net/wp-content/uploads/2017/03/IPTV_MainBanner-450x200.jpg</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR darkcyan][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<!------------------------------->
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  iptvsatlinks[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>https://www.best-iptv.net/wp-content/uploads/2017/03/IPTV_MainBanner-450x200.jpg</thumbnail>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR darkcyan] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR lightblue]jdr63IPTV[/COLOR] [makelist.param1]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+
+<!------------------------------->
+<item>
+    <title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Spain - dailyiptvlist.com[/COLOR]</title>
+    <link>$doregex[leg]</link> 
+    <regex>
+      <name>leg</name>
+      <listrepeat><![CDATA[
+            <title>[leg.param2]</title>
+            <link>$doregex[list]</link>
+    ]]></listrepeat>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+    <page>http://www.dailyiptvlist.com/europe/spain/</page>
+    </regex> 
+    <regex>
+    <name>list</name>
+    <listrepeat><![CDATA[
+    <title>[list.param2]</title>
+    <link>ignoreme</link>
+    <externallink>https://[list.param1]$$TSDOWNLOADER$$</externallink>
+    ]]></listrepeat>
+    <expres><![CDATA[<blockquote><p><a href="https://(.+?)">(.+?)</a></p></blockquote>]]></expres>
+    <page>http[leg.param1]</page>
+    </regex>
+</item>
+
+
+
+<!------------------------------->
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Spain - dailyiptvlist.com[/COLOR]</title>
+<link>$doregex[leg]</link>
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>http://www.dailyiptvlist.com/europe/spain/</page>
+</regex>
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>$doregex[m3ulist]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+
+<regex>
+<name>m3ulist</name>
+<listrepeat><![CDATA[
+<title>[m3ulist.param1]</title>
+<link>$doregex[file]</link>
+]]></listrepeat>
+<expres><![CDATA[-1,(.*?)\n(.+)]]></expres>
+<page>[list.param1]</page>
+<Referer>[list.param1]</Referer>
+</regex>
+<regex>
+<name>file</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='[m3ulist.param2]'):
+ import urllib
+ u = url
+ if '.ts' in url:
+        u = 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=' + urllib.quote_plus(url)
+ return u
+]]></expres>
+<page></page>
+</regex>
+
+</item>
+
+<!------------------------------->
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Germany - dailyiptvlist.com[/COLOR]</title>
+<link>$doregex[leg]</link>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>http://www.dailyiptvlist.com/europe/germany/</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>$doregex[m3ulist]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+<regex>
+<name>m3ulist</name>
+<listrepeat><![CDATA[
+<title>[m3ulist.param1]</title>
+<link>$doregex[file]</link>
+]]></listrepeat>
+<expres><![CDATA[-1,(.*?)\n(.+)]]></expres>
+<page>[list.param1]</page>
+<Referer>[list.param1]</Referer>
+</regex>
+<regex>
+<name>file</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='[m3ulist.param2]'):
+ import urllib
+ u = url
+ if '.ts' in url:
+        u = 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=' + urllib.quote_plus(url)
+ return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<!------------------------------->
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Portugal - dailyiptvlist.com[/COLOR]</title>
+<link>$doregex[leg]</link>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/europe/portugal/</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>$doregex[m3ulist]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+<regex>
+<name>m3ulist</name>
+<listrepeat><![CDATA[
+<title>[m3ulist.param1]</title>
+<link>$doregex[file]</link>
+]]></listrepeat>
+<expres><![CDATA[-1,(.*?)\n(.+)]]></expres>
+<page>[list.param1]</page>
+<Referer>[list.param1]</Referer>
+</regex>
+<regex>
+<name>file</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='[m3ulist.param2]'):
+ import urllib
+ u = url
+ if '.ts' in url:
+        u = 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=' + urllib.quote_plus(url)
+ return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<!------------------------------->
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Sports - dailyiptvlist.com[/COLOR]</title>
+<link>$doregex[leg]</link>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>$doregex[m3ulist]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+<regex>
+<name>m3ulist</name>
+<listrepeat><![CDATA[
+<title>[m3ulist.param1]</title>
+<link>$doregex[file]</link>
+]]></listrepeat>
+<expres><![CDATA[-1,(.*?)\n(.+)]]></expres>
+<page>[list.param1]</page>
+<Referer>[list.param1]</Referer>
+</regex>
+<regex>
+<name>file</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='[m3ulist.param2]'):
+ import urllib
+ u = url
+ if '.ts' in url:
+        u = 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=' + urllib.quote_plus(url)
+ return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<!------------------------------->
+
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  Spain[/COLOR]</title>
+<link>$doregex[makelist]</link>				
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR goldenrod]Jdr63IPTV:[/COLOR] [COLOR darkcyan]  iptvsatlinks[/COLOR][COLOR white] Spain[/COLOR]</title>
+				<link>ignorme</link>
+				<externallink>[makelist.param1]$$TSDOWNLOADER$$|User-Agent=Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2 Git:2015-10-19-02e7013</externallink>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import requests
+import re
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.freeiptvlinks.net/category/iptv-links/spain/'): 
+ link=requests.get(url).text
+ matchpag = re.compile('hellip; <a href="(http://www.freeiptvlinks.net/.*?)"').findall(link)
+ return matchpag
+]]></expres>
+<page>http://www.freeiptvlinks.net/category/iptv-links/spain/</page>
+<referer>http://www.freeiptvlinks.net/</referer>
+<agent>Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<!------------------------------->
+
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<!------------------------------->
+
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Ultra[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+)">(.*?)</a]]></expres>
+<page>http://www.iptvultra.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist2.param1]</title>
+  <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+]]></listrepeat>
+<expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
+<page>[makelist.param1]?get=download_m3u8</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-BwVbANfGxrE/V3a335BWpmI/AAAAAAAACqA/i5Jkp2o56_Qw6_haB0ipz4Kuh4POnX2VQCLcB/w220-h160-c/iptv_large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/QrB3wW78yio/maxresdefault.jpg</fanart>
+</item>
+
+<!------------------------------->
+     
+<items>
