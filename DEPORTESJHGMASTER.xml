@@ -225,8 +225,8 @@
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/nfl/canal3.html</sportsdevil>
 <sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</thumbnail>
+<fanart>http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg</fanart>
 </item>			
 			
 			<item>
@@ -882,7 +882,7 @@ Live Soccer TV Channels , Football TV Channels , Football Live Streaming , Socce
 
             <referer>http://latelete.tv/</referer>
 
-            <thumbnail></thumbnail>
+            <thumbnail>http://i.imgur.com/73hNlIg.jpg</thumbnail>
 
             </item>
 
@@ -899,20 +899,17 @@ Live Soccer TV Channels , Football TV Channels , Football Live Streaming , Socce
             <referer>http://tv.b-c-e.us/</referer>
 
             <thumbnail>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</thumbnail
-tv.b-c-e.us
-Bein Sports 4 HD
-Live Soccer TV Channels , Football TV Channels , Football Live Streaming , Soccer Live Streaming , Live TV , Watch TV on the Internet , ... .
- >
-
-            </item>
 
  
 
  
 
-<item>
-
-            <title>[COLOR purple][COLOR blue]• [/COLOR]beIN SPORT 2[COLOR lime][/COLOR]</title>
+ 
+ 
+ 
+ 
+ <item>
+             <title>[COLOR purple][COLOR blue]• [/COLOR]beIN SPORT 2[COLOR lime][/COLOR]</title>
 
             <sportsdevil>http://tv.b-c-e.us/Bein_Sports_2_HD_2.php</sportsdevil>
 
@@ -998,7 +995,7 @@ Live Soccer TV Channels , Football TV Channels , Football Live Streaming , Socce
 
             <referer>http://tv.b-c-e.us/</referer>
 
-            <thumbnail><https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg/thumbnail>
+              <thumbnail>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</thumbnail>
 
             </item>
 
@@ -1303,7 +1300,7 @@ Live Soccer TV Channels , Football TV Channels , Football Live Streaming , Socce
 
             <sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
    <referer>http://latelete.tv/</referer>
-          <thumbnail></thumbnail>
+          <thumbnail>http://sm.ign.com/t/ign_es/screenshot/default/bein-sports-br_ya29.640.jpg</thumbnail>
 
             </item>
 			
