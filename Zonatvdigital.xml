@@ -5,7 +5,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue]*MUNDO [/COLOR][COLOR  orange]*DEPORTE [/COLOR] </title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue]*MUNDO [/COLOR][COLOR  orange]*DEPORTE [/COLOR][COLOR yellow]_**_[/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://2.bp.blogspot.com/_5FpgyNPDSO4/TLokbeXJOnI/AAAAAAAAAG8/_llJr5Y_PwQ/s1600/undo%2520deportes%5B1%5D.jpg</thumbnail>
 <fanart>http://2.bp.blogspot.com/_5FpgyNPDSO4/TLokbeXJOnI/AAAAAAAAAG8/_llJr5Y_PwQ/s1600/undo%2520deportes%5B1%5D.jpg</fanart>
@@ -14,7 +14,7 @@
 	
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] AREA 13( [/COLOR][COLOR orange]*[/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] AREA 13( [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <fanart>https://www.areathirteen.com/images/area13_home.jpg</fanart>
 <thumbnail>https://www.areathirteen.com/images/area13_home.jpg</thumbnail>
@@ -23,7 +23,7 @@
 
 
  <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]*ZONA [/COLOR][COLOR orange]*BOOM [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]*ZONA [/COLOR][COLOR orange]*BOOM [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/ghXNKsZk</externallink>
 <fanart>https://pbs.twimg.com/profile_images/1132497714/LA_BOMBA_11.jpg</fanart>
@@ -31,19 +31,28 @@
 </item>	
 
 
- <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]*BEIN [/COLOR][COLOR orange] SPORTS[/COLOR]</title>
-<link>http://MENU.me</link>
-<externallink>https://pastebin.com/raw/2HyptJUH</externallink>
-<fanart>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</fanart>
-<thumbnail>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</thumbnail>
-</item>
-
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ARENAVISION [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ARENAVISION [/COLOR][COLOR yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</thumbnail>
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+
+<item>
+<title>[COLOR yellow]_**_[/COLOR][COLOR skyblue] SUPERTDTPLUS [/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/DEPortesytele.xml</externallink>	
+</item>
+
+<item> 
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] TDT [/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item> 
