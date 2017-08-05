@@ -29,7 +29,7 @@
 <page>[makelist2.param2]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-<thumbnail>https://www.dropbox.com/home/logos?preview=iconJdr63IPTV.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -385,7 +385,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.freeiptvlinks.net/catego
 <regex>
 <name>getUrl</name>
 <expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
-<page></page>
+<page>http://www.iptvultra.com/</page>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://2.bp.blogspot.com/-BwVbANfGxrE/V3a335BWpmI/AAAAAAAACqA/i5Jkp2o56_Qw6_haB0ipz4Kuh4POnX2VQCLcB/w220-h160-c/iptv_large.jpg</thumbnail>
