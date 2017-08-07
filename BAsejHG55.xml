@@ -19,6 +19,15 @@
 </item>
 
 
+			
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/mUKBQSJ.jpg</thumbnail>
+<fanart>http://i.imgur.com/mUKBQSJ.jpg</fanart>
+<externallink></externallink>	
+</item> 
+
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] TV  [/COLOR][COLOR orange] DIGITAL [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -36,21 +45,7 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
 </item> 
 	
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] FRIEND [/COLOR][COLOR orange] ZONE [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Zonefriends.xml</externallink>	
-</item> 
-		
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/1NUl32n.jpg</thumbnail>
-<fanart>http://i.imgur.com/1NUl32n.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
-</item> 
+
 	
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
@@ -80,19 +75,25 @@
 </item> 
 			
 
-			
+
+		
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/mUKBQSJ.jpg</thumbnail>
-<fanart>http://i.imgur.com/mUKBQSJ.jpg</fanart>
-<externallink></externallink>	
+<thumbnail>http://i.imgur.com/1NUl32n.jpg</thumbnail>
+<fanart>http://i.imgur.com/1NUl32n.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
+</item> 	
+
+
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] FRIEND [/COLOR][COLOR orange] ZONE [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Zonefriends.xml</externallink>	
 </item> 
-	
-
-
-	
-
 	
 
 			
