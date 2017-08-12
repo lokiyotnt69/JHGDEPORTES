@@ -15,6 +15,26 @@
 
 
 
+<item>
+<title>[COLOR lime][B]Canales Deportivos[/B][/COLOR] [I][COLOR violet](Actualizado 08-07-2017)[/COLOR][/I]</title>
+<link>http://ignoreme</link>
+<externallink>http://addons.kodipro.org/series/deportes%20activos19-04-2017.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]Rojadirecta:[/COLOR] [COLOR orange]SportsDevil[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 
