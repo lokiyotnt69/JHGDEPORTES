@@ -18,14 +18,13 @@
 <fanart>http://i.imgur.com/2bM8pmo.jpg</fanart>
 </item>
 
-
 			
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/mUKBQSJ.jpg</thumbnail>
 <fanart>http://i.imgur.com/mUKBQSJ.jpg</fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/DEPORTESJHGMASTER.xml</externallink>	
 </item> 
 
 <item> 
@@ -35,8 +34,7 @@
 <fanart>http://i.imgur.com/YSKPXch.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Zonatvdigital.xml</externallink>	
 </item> 
-	
-	
+		
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -44,8 +42,44 @@
 <fanart>http://i.imgur.com/UhIwDJr.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
 </item> 
-	
 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
+</item> 
+	
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AMIGOS [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Zonefriends.xml</externallink>	
+</item> 
+	
+			
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Documentales1.xml</externallink>	
+</item> 	
+		
+			
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] JOKER  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Jkr0r7o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jkr0r7o.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>	
+</item> 
+		
+	
 	
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
@@ -62,46 +96,4 @@
 <thumbnail>http://i.imgur.com/kSqCh4s.jpg</thumbnail>
 <fanart>http://i.imgur.com/kSqCh4s.jpg</fanart>
 <externallink></externallink>	
-</item> 
-	
-
-			
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] JOKER  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/Jkr0r7o.jpg</thumbnail>
-<fanart>http://i.imgur.com/Jkr0r7o.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>	
-</item> 
-			
-
-
-		
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/1NUl32n.jpg</thumbnail>
-<fanart>http://i.imgur.com/1NUl32n.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
-</item> 	
-
-
-	
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] FRIEND [/COLOR][COLOR orange] ZONE [/COLOR][COLOR  yellow]_**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Zonefriends.xml</externallink>	
-</item> 
-	
-
-			
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 	
-		
+</item> 		
